@@ -1,0 +1,5 @@
+Laura,4.5
+Camilo,3.2
+Sofía,2.8
+Andrés,4.0
+Valentina,4.9
